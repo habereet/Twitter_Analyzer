@@ -4,3 +4,4 @@ cache
 Lib
 Scripts
 twitter_secrets.py
+pyvenv.cfg
